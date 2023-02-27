@@ -1,0 +1,4 @@
+site_name: TestSite
+site_url: https://devops-pm-pgdip-2022-2023.github.io/DevOpsDoc2/
+repo_name: GitHub
+docs_dir: _build/html
