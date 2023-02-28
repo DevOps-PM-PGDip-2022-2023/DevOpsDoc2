@@ -1,0 +1,7 @@
+DevOpsDoc2
+==========
+
+.. toctree::
+   :maxdepth: 8
+
+   app
